@@ -1,4 +1,7 @@
-# TiSHOP App
+# Product Listing App
+
+## Demo
+You can view the live demo of the application here: [Live Demo](https://tishop-coral.vercel.app/)
 
 ## Description
 This is a basic front-end application that fetches product data from an API, displays the product list, and allows users to add products to the cart. It features filtering, sorting, and viewing product details.
@@ -27,6 +30,13 @@ This is a basic front-end application that fetches product data from an API, dis
 - Use the dropdown to filter products by category.
 - Sort the products by price or rating.
 - Click on a product to view more details and add it to the cart.
+
+## Commit History
+Each commit message follows meaningful and atomic descriptions of changes. Here are some examples:
+- "Added product list with API fetching"
+- "Implemented search functionality"
+- "Created filter by category feature"
+- "Added cart functionality"
 
 ## Contributing
 Feel free to open an issue or submit a pull request if you'd like to contribute to the project.
