@@ -1,2 +1,0 @@
-# tishop
-Created with CodeSandbox
